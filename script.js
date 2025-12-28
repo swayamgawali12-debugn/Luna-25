@@ -48,7 +48,7 @@ animateSnow();
 
 // Play music function (replace with your own audio file)
 function playMusic() {
-    const audio = new Audio('holiday-music.mp3'); // Add your own MP3 file
+    const audio = new Audio('https://open.spotify.com/track/73y649QhnXdcm6fRdvfraO?si=N2byXF5BT0irYlIp180uIA.mp3'); // Add your own MP3 file
     audio.play();
 }
 
